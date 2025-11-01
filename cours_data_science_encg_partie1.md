@@ -4,7 +4,7 @@
 
 
 
-<img src="C:\Users\lenovo\OneDrive\Desktop\M2 E COMMERCE\my.jpg" style="height:264px;margin-right:232px"/>
+<img src="image.jpg" style="height:264px;margin-right:232px"/>
 
 
 ## École Nationale de Commerce et de Gestion (ENCG) - 
